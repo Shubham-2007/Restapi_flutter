@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "645333819663",
+    "firebase_url": "https://shubhammainpushnotification.firebaseio.com",
+    "project_id": "shubhammainpushnotification",
+    "storage_bucket": "shubhammainpushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645333819663:android:790b02d0b88eebfbb51e7a",
+        "android_client_info": {
+          "package_name": "com.example.signup_loginrestapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645333819663-cl31722r7a61afgklodo7e77d36hdmbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9iA6SmGTy_GkH9gbWM4iJpZKi8rwsYWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645333819663-cl31722r7a61afgklodo7e77d36hdmbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
